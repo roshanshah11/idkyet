@@ -1,0 +1,217 @@
+{
+    "materials": [
+        {
+            "Material Type": "Polymers",
+            "Material": "ABS (Acrylonitrile butadiene styrene)",
+            "Estimated Cost per Gram (USD)": 0.015
+        },
+        {
+            "Material Type": "Polymers",
+            "Material": "PET (Polyethylene terephthalate)",
+            "Estimated Cost per Gram (USD)": 0.015
+        },
+        {
+            "Material Type": "Polymers",
+            "Material": "Nylon",
+            "Estimated Cost per Gram (USD)": 0.04
+        },
+        {
+            "Material Type": "Polymers",
+            "Material": "Polycarbonate",
+            "Estimated Cost per Gram (USD)": 0.03
+        },
+        {
+            "Material Type": "Polymers",
+            "Material": "Polypropylene",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Polymers",
+            "Material": "Polyethylene",
+            "Estimated Cost per Gram (USD)": 0.01
+        },
+        {
+            "Material Type": "Polymers",
+            "Material": "Acrylic (PMMA)",
+            "Estimated Cost per Gram (USD)": 0.025
+        },
+        {
+            "Material Type": "Ceramics",
+            "Material": "Clay",
+            "Estimated Cost per Gram (USD)": 0.001
+        },
+        {
+            "Material Type": "Ceramics",
+            "Material": "Porcelain",
+            "Estimated Cost per Gram (USD)": 0.01
+        },
+        {
+            "Material Type": "Glass",
+            "Material": "Soda Lime Glass",
+            "Estimated Cost per Gram (USD)": 0.007
+        },
+        {
+            "Material Type": "Glass",
+            "Material": "Borosilicate Glass (Pyrex)",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Aluminum",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Steel (Carbon)",
+            "Estimated Cost per Gram (USD)": 0.03
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Steel (Stainless)",
+            "Estimated Cost per Gram (USD)": 0.1
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Copper",
+            "Estimated Cost per Gram (USD)": 0.07
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Brass",
+            "Estimated Cost per Gram (USD)": 0.12
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Nickel",
+            "Estimated Cost per Gram (USD)": 0.35
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Titanium",
+            "Estimated Cost per Gram (USD)": 3
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Gold",
+            "Estimated Cost per Gram (USD)": 40
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Platinum",
+            "Estimated Cost per Gram (USD)": 57.5
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Silver",
+            "Estimated Cost per Gram (USD)": 0.15
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Lead",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Tungsten",
+            "Estimated Cost per Gram (USD)": 0.5
+        },
+        {
+            "Material Type": "Metals",
+            "Material": "Molybdenum",
+            "Estimated Cost per Gram (USD)": 0.1
+        },
+        {
+            "Material Type": "Composites",
+            "Material": "Fiberglass",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Composites",
+            "Material": "Carbon Fiber",
+            "Estimated Cost per Gram (USD)": 5
+        },
+        {
+            "Material Type": "Concrete",
+            "Material": "Ready-mix concrete",
+            "Estimated Cost per Gram (USD)": 0.01
+        },
+        {
+            "Material Type": "Wood",
+            "Material": "Pine",
+            "Estimated Cost per Gram (USD)": 0.003
+        },
+        {
+            "Material Type": "Wood",
+            "Material": "Oak",
+            "Estimated Cost per Gram (USD)": 0.01
+        },
+        {
+            "Material Type": "Wood",
+            "Material": "Mahogany",
+            "Estimated Cost per Gram (USD)": 0.03
+        },
+        {
+            "Material Type": "Wood",
+            "Material": "Plywood",
+            "Estimated Cost per Gram (USD)": 0.005
+        },
+        {
+            "Material Type": "Wood",
+            "Material": "MDF (Medium-density fiberboard)",
+            "Estimated Cost per Gram (USD)": 0.007
+        },
+        {
+            "Material Type": "Stone",
+            "Material": "Granite",
+            "Estimated Cost per Gram (USD)": 0.03
+        },
+        {
+            "Material Type": "Stone",
+            "Material": "Marble",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Fibers",
+            "Material": "Cotton",
+            "Estimated Cost per Gram (USD)": 0.02
+        },
+        {
+            "Material Type": "Fibers",
+            "Material": "Polyester",
+            "Estimated Cost per Gram (USD)": 0.01
+        },
+        {
+            "Material Type": "Fibers",
+            "Material": "Wool",
+            "Estimated Cost per Gram (USD)": 0.05
+        },
+        {
+            "Material Type": "Fibers",
+            "Material": "Silk",
+            "Estimated Cost per Gram (USD)": 0.2
+        },
+        {
+            "Material Type": "Biomaterials"
+        },
+        {
+            "Material Type": "Brick",
+            "Material": "Clay Brick",
+            "Estimated Cost per Gram (USD)": 0.01
+        },
+        {
+            "Material Type": "Paper",
+            "Material": "Printing paper",
+            "Estimated Cost per Gram (USD)": 0.002
+        },
+        {
+            "Material Type": "Semiconductors",
+            "Material": "Silicon",
+            "Estimated Cost per Gram (USD)": 0.001
+        },
+        {
+            "Material Type": "Leather",
+            "Material": "Cowhide leather",
+            "Estimated Cost per Gram (USD)": 0.1
+        }
+    ]
+}
